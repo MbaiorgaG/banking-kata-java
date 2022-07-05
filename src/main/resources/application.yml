@@ -10,7 +10,7 @@ spring:
     show-sql: false
     hibernate-sql: true
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
     properties:
       hibernate:
         jdbc:
